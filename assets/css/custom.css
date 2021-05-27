@@ -44,6 +44,7 @@ h4 {
 .videoIntro {
     position: relative;
     padding-bottom: 56.25%;
+    padding: 50%;
     }
 
 .videoIntro iframe {
